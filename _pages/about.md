@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 
 <!-- version 2-->
-Yun-Chia Yu (尤韻嘉) is currently a first-year PhD student in Electrical & Computer Engineering at University of California, San Diego, advised by [Prof. Mingu Kang](https://ucsdvvip.com/). 
+Yun-Chia Yu (尤韻嘉) is currently a ~~first second~~ third-year PhD student in Electrical & Computer Engineering at University of California, San Diego, advised by [Prof. Mingu Kang](https://ucsdvvip.com/). 
 
 He received his B.S. degree in [Electrical Engineering from National Taiwan University (NTU)](https://web.ee.ntu.edu.tw/) in June 2023. During his undergraduate studies, he had the privilege of conducting research at in the <a href='https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab'>Energy-Efficient Circuits and Systems Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943022">Prof. Tsung-Te Liu</a>, and the <a href='https://access.ee.ntu.edu.tw/'>Access Lab, NTU</a>, advised by <a href="https://www.ee.ntu.edu.tw/profile1.php?id=65">Prof. An-Yeu Wu</a>.
 
